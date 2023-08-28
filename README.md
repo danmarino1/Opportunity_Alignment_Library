@@ -1,4 +1,4 @@
-# Job Descriptions LDA
+# Job Applicant Assessor
 
 This repository contains the code and resources for a Job-Applicant Matching Model. The model is designed to assist in the process of job recruitment by automating the process of matching job descriptions to the most suitable applicants based on their background and skills.
 
