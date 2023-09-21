@@ -8,7 +8,6 @@ This repository contains the code and resources for a Job-Applicant Matching Mod
 - Model Type: Natural Language Processing, Text Embedding, Topic Modeling
 - Model Architecture: BERT, Latent Dirichlet Allocation (LDA)
 - Training Library: transformers (for BERT), gensim (for LDA), sci-kit learn (for cosine similarity)
-- Training Data: 175 job applications to more than 130 unique jobs
 
 ## Intended Use
 
